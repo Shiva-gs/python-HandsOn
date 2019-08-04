@@ -36,7 +36,7 @@ with open(file,newline="") as csv_file:
     #find the average
     tot_avg = round(run_diff/row_cnt,2)
     print(f"The average of the changes in Profit/Losses :${tot_avg}")
-    # ''.join(dic_data) will remove the quoates and brackets
+    # ''.join(dic_data) will remove the quotes and brackets
     print (f"The greatest increase in profits (date and amount) over the entire period: {''.join(dic_data[max(revenue_avg_list)])} -- ${max(revenue_avg_list)}")
     print (f"The greatest decrease in losses (date and amount) over the entire period: {''.join(dic_data[min(revenue_avg_list)])} -- ${min(revenue_avg_list)}")
 
