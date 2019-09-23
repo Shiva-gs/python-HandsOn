@@ -1,0 +1,4 @@
+1. Attached the Entity Relationship diagram
+2. SQL script to create schema tables
+3. SQL Script to query the data as per instruction
+4. Bonus to fetch data using sqlalchemy/psycopg2 and plotting bar char
