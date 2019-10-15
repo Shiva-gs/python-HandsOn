@@ -1,0 +1,2 @@
+This is ETL project to read API and write to Mongo db
+Display in webpage using flask
