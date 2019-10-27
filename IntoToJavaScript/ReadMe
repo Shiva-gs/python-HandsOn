@@ -1,0 +1,4 @@
+Execute the index.html
+app.js will render the data from data.js and display in the screen
+Using D3 data driven framework, rendering of data is achived
+Using D3 data from filter condition is applied 
